@@ -1,0 +1,31 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "7fbd7ffb-bc98-4de1-bfba-070e2f9d99ff",
+  "alias": "InformaticaGlobalNewsWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": {
+      "default": "Other"
+    },
+    "title": {
+      "default": "InformaticaGlobalNews"
+    },
+    "description": {
+      "default": "Informatica Global News description"
+    },
+    "officeFabricIconFontName": "News",
+    "properties": {
+      "WebPartTitle": "Global News",
+      "context": null,
+      "ListName": "",
+      "SeeAllAction": "https://www.informatica.com/about-us/news.html",
+      "TilesCount": 1,
+      "AddTarget": "",
+      "SeeAllTarget": ""
+    }
+  }]
+}

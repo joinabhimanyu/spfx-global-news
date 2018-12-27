@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "informatica-global-news",
+    "libraryId": "63093abd-8f05-4ff6-bc00-cd3267a6116b",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

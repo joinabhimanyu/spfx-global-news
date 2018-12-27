@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "informatica-global-news-client-side-solution",
+    "id": "63093abd-8f05-4ff6-bc00-cd3267a6116b",
+    "version": "4.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/informatica-global-news.sppkg"
+  }
+}
